@@ -16,7 +16,7 @@ const Hacking = () => {
           </div>
         </div>
       </div>
-      <div className="relative isolate overflow-hidden bg-[url(/images/pattern-white.jpg)] pb-0.25">
+      <div className="relative isolate overflow-hidden bg-[url(/images/pattern-white.jpg)] pb-0.75 sm:pb-0.25">
         <img src="/images/paper-cut.png" alt="paper-cut" className="w-full h-full object-cover" />
       </div>
     </div>

@@ -9,7 +9,7 @@ const Music = () => {
             Music
           </h2>
           <p className="mt-4 text-lg font-medium bg-white sm:text-xl/8 font-mono">
-            I dive into the rhythm of the streets, crafting beats and rhymes with raw energy, using tools like FL Studio & Logic Pro to shape the soundscape of the urban night.
+            I dive into the rhythm of the streets, crafting beats and rhymes with raw energy, using tools like <Link href="https://www.image-line.com" target="_blank" className="underline bg-black text-[#bee54b]">FL Studio</Link> & <Link href="https://www.apple.com/logic-pro" target="_blank" className="underline bg-black text-[#bee54b]">Logic Pro</Link> to shape the soundscape of the urban night.
           </p>
           <p className="mt-8 text-md bg-white sm:text-lg/8 font-mono">
             Since 2017, I've been spitting bars & notes that echo the grit of the city and the heart of my story—tracks like Athanasia hit deep, a tribute to my mom. From freestyles like Skrt Freestyle to soulful anthems, I blend hip-hop's pulse with personal truths, turning late-night vibes into sonic hacks that resonate. I'm always chasing the next beat to make your soul move. Check out my music to learn more (click "Enter").
